@@ -1,0 +1,5 @@
+сервер)g++ C:\Users\kaneare\kyrsovaya\server.cpp -o server.exe -I"C:\Users\kaneare\kyrsovaya\vcpkg\installed\x64-windows\include" -L"C:\Users\kaneare\kyrsovaya\vcpkg\installed\x64-windows\lib" -lnanomsg
+
+
+клиент)g++ C:\Users\kaneare\kyrsovaya\client.cpp -o client.exe -I"C:\Users\kaneare\kyrsovaya\vcpkg\installed\x64-windows\include" -L"C:\Users\kaneare\kyrsovaya\vcpkg\installed\x64-windows\lib" -lnanomsg
+
